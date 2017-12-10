@@ -24,7 +24,8 @@
     "clipboardWrite",
     "contextMenus",
     "tabs",
-    "storage"
+    "storage",
+     "activeTab"
   ],
   "content_scripts": [
     {
